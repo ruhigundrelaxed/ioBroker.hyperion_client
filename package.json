@@ -1,0 +1,29 @@
+{
+  "name": "iobroker.hyperion",
+  "version": "0.0.13",
+  "description": "Adapter for using hyperion.",
+  "author": "ruhigundrelaxed<martin@qvadrat.de>",
+  "homepage": "https://github.com/ruhigundrelaxed/ioBroker.hyperion/",
+  "readme": "https://github.com/ruhigundrelaxed/ioBroker.hyperion/blob/master/README.md",
+  "keywords": ["ioBroker", "hyperion"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruhigundrelaxed/ioBroker.hyperion.git"
+  },
+  "dependencies": {
+      "fs": "",
+      "color-convert": "",
+      "hyperion-client" : "",
+      "type-of-is" : ""
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^4.1.0",
+    "chai": "^4.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ruhigundrelaxed/ioBroker.hyperion/issues"
+  },
+  "main": "hyperion.js",
+  "license": "MIT"
+}
