@@ -6,11 +6,11 @@
         "titleLang":                "hyperion client",
         "desc":                     {
             "en": "Adapter to control iobroker via hyperion daemon.",
-            "de": "Adapter, um iobroker �ber den Hyperion-Daemon zu steuern.",
-            "ru": "Адаптер для управления демоном гиперонов.",
+            "de": "Adapter, um iobroker über den Hyperion-Daemon zu steuern.",
+            "ru": "ÐÐ´Ð°Ð¿Ñ‚ÐµÑ€ Ð´Ð»Ñ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð´ÐµÐ¼Ð¾Ð½Ð¾Ð¼ Ð³Ð¸Ð¿ÐµÑ€Ð¾Ð½Ð¾Ð².",
             "pt": "Adaptador para controlar o daemon hiperion.",
             "nl": "Adapter om de hyperion-daemon te besturen.",
-            "fr": "Adaptateur pour contrôler le démon hyperion.",
+            "fr": "Adaptateur pour contrÃ´ler le dÃ©mon hyperion.",
             "it": "Adattatore per controllare il demone hyperion.",
             "es": "Adaptador para controlar el daemon hyperion.",
             "pl": "Adapter do kontrolowania demona hyperion."
@@ -18,10 +18,10 @@
         "platform":                 "Javascript/Node.js",
         "mode":                     "daemon",
         "icon":                     "hyperion.png",
-        "extIcon":                  "https://github.com/ruhigundrelaxed/ioBroker.hyperion/raw/master/admin/hyperion.png",
+        "extIcon":                  "https://raw.githubusercontent.com/ruhigundrelaxed/ioBroker.hyperion/master/admin/hyperion.png",
         "loglevel":                 "info",
         "nondeletable":             true,
-        "readme": "https://github.com/ruhigundrelaxed/ioBroker.hyperion/blob/master/README.md",
+        "readme": "https://github.com/ruhigundrelaxed/ioBroker.hyperion_client/blob/master/README.md",
         "type": "lighting",
         "materialize": true
 
